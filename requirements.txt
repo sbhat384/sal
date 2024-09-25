@@ -1,0 +1,7 @@
+Pillow==9.2.0
+<<<<<<< HEAD
+streamlit==1.12.0
+altair.vegalite.v4
+=======
+streamlit==1.22.0
+>>>>>>> 999b6b0bb264888ecd303bf007b5ad9483a0fa9c
